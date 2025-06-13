@@ -75,12 +75,6 @@ Cuando no estoy programando, probablemente me encuentres:
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=FF6B35&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Contador de visitas" />
-</div>
-
-<div align="center">
   
 
 **¡Gracias por visitar mi perfil! 🚀**
