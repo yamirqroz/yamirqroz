@@ -64,19 +64,6 @@ Cuando no estoy programando, probablemente me encuentres:
 </div>
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" alt="Estadísticas de GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" alt="Lenguajes más usados" />
-</div>
-
----
-
 ## 🤝 ¿Conectamos?
 
 <div align="center">
