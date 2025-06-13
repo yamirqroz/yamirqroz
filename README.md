@@ -70,7 +70,7 @@ Cuando no estoy programando, probablemente me encuentres:
   
 ¡**Siempre estoy abierto a conocer gente nueva y colaborar en proyectos!**
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tu-usuario)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yamx_cq)
 
 </div>
 
