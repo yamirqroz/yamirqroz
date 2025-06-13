@@ -19,9 +19,9 @@
 
 > *"Quizás no sea el mejor, pero siempre busco aprender de los demás y compartir mis conocimientos"*
 
-Soy un estudiante de ingeniería de software **motivado y curioso**. Me especializo en el desarrollo backend, especialmente usando **Laravel**, y últimamente me he estado adentrando en **Rust** por su potencia y eficiencia.
+Soy un estudiante de ingeniería de software **curioso**. Me llama la atencion el desarrollo backend, especialmente usando **Laravel**, y últimamente me he estado adentrando en **Rust** por su potencia y eficiencia.
 
-Me considero una persona a la que le encanta **aprender cosas nuevas**. Valoro mucho el trabajo en equipo y la colaboración, siempre buscando crecer junto a otros desarrolladores.
+Me considero una persona a la que le encanta **aprender cosas nuevas de los demas y por cuenta propia**. 
 
 Cuando no estoy programando, probablemente me encuentres:
 - 🎵 Escuchando música
@@ -45,6 +45,7 @@ Cuando no estoy programando, probablemente me encuentres:
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -57,10 +58,24 @@ Cuando no estoy programando, probablemente me encuentres:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 </div>
 
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" alt="Estadísticas de GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" alt="Lenguajes más usados" />
+</div>
+
+---
 
 ## 🤝 ¿Conectamos?
 
@@ -68,15 +83,19 @@ Cuando no estoy programando, probablemente me encuentres:
   
 ¡**Siempre estoy abierto a conocer gente nueva y colaborar en proyectos!**
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yamx_cq)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tu-usuario)
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=FF6B35&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Contador de visitas" />
+</div>
+
+<div align="center">
   
 
-**¡Espero y podamos ser amigos y aprender juntos!**
+**¡Gracias por visitar mi perfil! 🚀**
 
 </div>
