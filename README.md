@@ -9,7 +9,7 @@
 🎓 **Estudiante de Ingeniería de Software**  
 💻 **Apasionado por el desarrollo backend con Laravel**  
 🦀 **Explorando el mundo de Rust**  
-🎶 **Amante de la música** | 🏋️‍♂️ **Fan del ejercicio** | 🤝 **¡Me encanta hacer nuevos amigos!**
+🎶 **Amante de la música** | 🏋️‍♂️ **Fan de hacer ejercicio y salir a caminar** | 🤝 **¡Me encanta hacer nuevos amigos!**
 
 </div>
 
