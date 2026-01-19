@@ -1,7 +1,7 @@
 # ¡Hola, soy Yamir! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+de+Software;Backend+Developer+con+Laravel;Explorando+el+mundo+de+Rust;¡Siempre+aprendiendo+algo+nuevo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Ingenierío+de+Software;Backend+Developer+con+Laravel;Explorando+el+mundo+de+Rust;¡Siempre+aprendiendo+algo+nuevo!" alt="Typing SVG" />
 </div>
 
 <div align="center">
