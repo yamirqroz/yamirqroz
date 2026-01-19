@@ -6,9 +6,9 @@
 
 <div align="center">
   
-🎓 **Estudiante de Ingeniería de Software**  
+🎓 **Queriendo ser ingeniero de software**  
 💻 **Apasionado por el desarrollo backend con Laravel**  
-🦀 **Explorando el mundo de Rust**  
+💻 **Explorando el mundo de go lang**  
 🎶 **Amante de la música** | 🏋️‍♂️ **Fan de hacer ejercicio y salir a caminar** | 🤝 **¡Me encanta hacer nuevos amigos!**
 
 </div>
@@ -74,6 +74,7 @@ Cuando no estoy programando, probablemente me encuentres:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yamx_cq)
 
 </div>
+
 
 ---
   
